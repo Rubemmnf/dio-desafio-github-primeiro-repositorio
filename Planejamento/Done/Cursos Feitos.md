@@ -1,0 +1,13 @@
+# Cursos Feitos com data de término
+- 17/07/2021 - Lógica de programação Essencial
+- 23/07/2021 - Introdução ao Git e ao GitHub
+- 07/09/2021 - Conceitos e melhores práticas com bancos de dados PostgreSQL
+- 08/09/2021 - Projetos ágeis com SCRUM
+- 29/09/2021 - Desmistificando o Trabalho Remoto
+- 29/09/2021 - Como se comunicar de forma eficiente e eficaz trabalhando remotamente
+- 29/09/2021 - Como gerenciar seus projetos trabalhando remotamente
+- 29/09/2021 - Rotina e produtividade individual no trabalho remoto
+- 29/09/2021 - Become Remote
+- 28/12/2021 - Lógica de Programação Essencial
+- 29/12/2021 - Aprenda o que são Estrutura de Dados e Algoritmos
+- 29/12/2021 - Projetos ágeis com SCRUM
