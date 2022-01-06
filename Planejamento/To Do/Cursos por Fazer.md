@@ -1,9 +1,6 @@
 # Cursos pendentes com data de término limite
 Este arquivo será usado e editado para acompanhamento do avanço pessoal
-- 05/01 - Criando seu primeiro repositório GitHub para compartilhar seu progresso
 - 12/01 - Mentoria #2
-- 07/01 - Introdução a criação de websites com HTML5 e CSS3
-- 10/01 - Construindo páginas para internet com Bootstrap
 - 10/01 - IDE Instalação e configuração (Visual Studio Code)
 - 11/01 - Introdução ao JavaScript
 - 12/01 - Sintaxe Básica em JavaScript
