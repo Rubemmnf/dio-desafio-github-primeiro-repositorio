@@ -1,7 +1,6 @@
 # Cursos pendentes com data de término limite
 Este arquivo será usado e editado para acompanhamento do avanço pessoal
 - 12/01 - Mentoria #2
-- 10/01 - IDE Instalação e configuração (Visual Studio Code)
 - 11/01 - Introdução ao JavaScript
 - 12/01 - Sintaxe Básica em JavaScript
 - 13/01 - Sintaxe e Operadores

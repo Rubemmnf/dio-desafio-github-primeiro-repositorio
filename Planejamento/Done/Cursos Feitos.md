@@ -13,5 +13,6 @@
 - 29/12/2021 - Projetos ágeis com SCRUM
 - 05/01/2022 - Criando seu primeiro repositório GitHub para compartilhar seu progresso
 - 07/01/2022 - Introdução a criação de websites com HTML5 e CSS3
--- nota: tinypng.com - diminui o tamanho de arquivos para aliviar o site
-
+- 11/01/2022 - Construindo páginas para internet com Bootstrap
+- 08/01/2022 - Introdução à Ciência de Dados: Conceitos Básicos
+- 08/01/2022 - Storytelling com Dados
