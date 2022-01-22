@@ -16,3 +16,8 @@
 - 11/01/2022 - Construindo páginas para internet com Bootstrap
 - 08/01/2022 - Introdução à Ciência de Dados: Conceitos Básicos
 - 08/01/2022 - Storytelling com Dados
+- 10/01/2022 - IDE Instalação e configuração (Visual Studio Code)
+- 11/01/2022 - Introdução ao JavaScript
+- 12/01/2022 - Mentoria #2
+- 12/01/2022 - Sintaxe Básica em JavaScript
+- 13/01/2022 - Sintaxe e Operadores
