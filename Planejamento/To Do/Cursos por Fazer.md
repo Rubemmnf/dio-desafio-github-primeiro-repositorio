@@ -1,17 +1,7 @@
 # Cursos pendentes com data de término limite
 Este arquivo será usado e editado para acompanhamento do avanço pessoal
 
-- 15/01/2022 - Funções
-- 15/01/2022 - Coleções
-- 17/01/2022 - Debugging e Error Handling
-- 17/01/2022 - JavaScript Assíncrono
-- 18/01/2022 - Orientação a objetos
-- 18/01/2022 - Map, Filter e Reduce
-- 19/01/2022 - Manipulando a D.O.M. com JavaScript
-- 19/01/2022 - Resolvendo Desafios de Código em JavaScript
 - 19/01/2022 - Mentoria #3
-- 20/01/2022 - Programando com JS
-- 21/01/2022 - Recriando a Interface do Netflix
 - 22/01/2022 - SQL SERVER - Criando suas primeiras consultas
 - 24/01/2022 - Modelando um banco de dados na prática com SQL SERVER
 - 24/01/2022 - SQL Server: Boas práticas em bancos relacionais

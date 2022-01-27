@@ -21,3 +21,13 @@
 - 12/01/2022 - Mentoria #2
 - 12/01/2022 - Sintaxe Básica em JavaScript
 - 13/01/2022 - Sintaxe e Operadores
+- 14/01/2022 - Variáveis e Tipos
+- 15/01/2022 - Funções
+- 15/01/2022 - Coleções
+- 17/01/2022 - Debugging e Error Handling
+- 17/01/2022 - JavaScript Assíncrono
+- 18/01/2022 - Orientação a objetos
+- 18/01/2022 - Map, Filter e Reduce
+- 19/01/2022 - Manipulando a D.O.M. com JavaScript
+- 19/01/2022 - Resolvendo Desafios de Código em JavaScript
+- 20/01/2022 - Programando com JS
